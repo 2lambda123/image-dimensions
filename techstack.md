@@ -5,8 +5,8 @@
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,8 +18,8 @@ Full tech stack [here](/techstack.md)
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/image-dimensions](https://github.com/2lambda123/image-dimensions)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/09/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
